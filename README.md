@@ -44,7 +44,7 @@ I love to learning new things since I got acquainted with programming.</br>
 ## 🚀 Featured Projects
 - [**Microservices E-Commerce Platform**](https://github.com/zysea23/Microservices-E-Commerce-Platform)): A Spring Boot microservices E-commerce platform.
 - [**Uber Clone**](https://github.com/zysea23/uber-clone): Uber clone app.
-- [**AI-Driven Podcast Platform**]((https://github.com/zysea23/AI-podcast)): An AI SaaS platform for users to create, discover, and enjoy podcasts.
+- [**AI-Driven Podcast Platform**](https://github.com/zysea23/AI-podcast)): An AI SaaS platform for users to create, discover, and enjoy podcasts.
 
 Check out more of my projects [here](https://github.com/zysea23?tab=repositories).
 
