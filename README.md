@@ -54,7 +54,6 @@ Check out more of my projects [here](https://github.com/zysea23?tab=repositories
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zysea23&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zysea23&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
