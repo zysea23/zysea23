@@ -12,8 +12,8 @@
 **Welcome to my Git Repository!**
 
 I'm an enthusiastic programmer, working on Full-stack Development and Data Science. </br>
-I'm passionate about coding to make people's daily life more easier and uncovering insights through data analysis.</br>
-I love to learning new technologies, tools and knowledge.</br>
+I'm passionate about coding to make people's daily life easier and uncovering insights through data analysis.</br>
+I love learning new things since I got acquainted with programming.</br>
 
 ---
 
@@ -21,12 +21,15 @@ I love to learning new technologies, tools and knowledge.</br>
 - 📍 Seattle, WA
 - 👨‍💻 MS Information Systems @ Northeastern University
 - 🌱 Continuously learning and exploring new technologies
-- 💻 Writing **Readable** & **Reusable** code are my first priorities
+- 🖥️ Writing **Readable** & **Reusable** code are my first priorities
 ---
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
 <p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -36,6 +39,7 @@ I love to learning new technologies, tools and knowledge.</br>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 ---
@@ -45,6 +49,7 @@ I love to learning new technologies, tools and knowledge.</br>
 - [**Microservices E-Commerce Platform**](https://github.com/zysea23/Microservices-E-Commerce-Platform): A Spring Boot microservices E-commerce platform.
 - [**Uber Clone**](https://github.com/zysea23/uber-clone): Uber clone app.
 - [**AI-Driven Podcast Platform**](https://github.com/zysea23/AI-podcast): An AI SaaS platform for users to create, discover, and enjoy podcasts.
+
 
 Check out more of my projects [here](https://github.com/zysea23?tab=repositories).
 
@@ -64,5 +69,5 @@ Check out more of my projects [here](https://github.com/zysea23?tab=repositories
 <p align="center">
   <a href="https://linkedin.com/in/yuzhang67"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:yuzhang6767@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
 </p>
