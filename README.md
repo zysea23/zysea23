@@ -11,7 +11,7 @@
 <!-- Introduction -->
 **Welcome to my Git Repository!**
 
-I'm an enthusiastic programmer, working on Full-stack Development and Data Science. </br>
+I'm an enthusiastic programmer, working on Full-stack Development, Machine Learning and Natural Language Processing. </br>
 I'm passionate about coding to make people's daily life easier and uncovering insights through data analysis.</br>
 I love learning new things since I got acquainted with programming.</br>
 
@@ -28,6 +28,7 @@ I love learning new things since I got acquainted with programming.</br>
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -36,6 +37,8 @@ I love learning new things since I got acquainted with programming.</br>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -47,6 +50,7 @@ I love learning new things since I got acquainted with programming.</br>
 <!-- Projects Section -->
 ## 🚀 Featured Projects
 - [**Microservices E-Commerce Platform**](https://github.com/zysea23/Microservices-E-Commerce-Platform): A Spring Boot microservices E-commerce platform.
+- [**Bird Snap**](https://github.com/zysea23/bird-snap): An amazing bird recognition web app.
 - [**Uber Clone**](https://github.com/zysea23/uber-clone): Uber clone app.
 - [**AI-Driven Podcast Platform**](https://github.com/zysea23/AI-podcast): An AI SaaS platform for users to create, discover, and enjoy podcasts.
 
