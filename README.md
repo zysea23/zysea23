@@ -24,32 +24,44 @@ I love learning new things since I got acquainted with programming.</br>
 - 🖥️ Writing **Readable** & **Reusable** code are my first priorities
 
 ---
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=zysea23&show_icons=true&theme=default_repocard&hide_border=true" alt="GitHub Stats" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=zysea23&theme=default_repocard&hide_border=true" alt="GitHub Streak" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zysea23&layout=compact&theme=default_repocard&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 ## 🚀 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/zysea23/transformers-Medical-Expert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=transformers-Medical-Expert&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=transformers-Medical-Expert&theme=default_repocard" />
   </a>
     <a href="https://github.com/zysea23/Microservices-E-Commerce-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=Microservices-E-Commerce-Platform&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=Microservices-E-Commerce-Platform&theme=default_repocard" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zysea23/bird-snap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=bird-snap&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=bird-snap&theme=default_repocard" />
   </a>
   <a href="https://github.com/zysea23/uber-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=uber-clone&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=uber-clone&theme=default_repocard" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zysea23/NLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=NLP&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=NLP&theme=default_repocard" />
   </a>
   <a href="https://github.com/zysea23/AI-podcast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=AI-podcast&theme=ambient_gradient" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=AI-podcast&theme=default_repocard" />
   </a>
 </p>
 
