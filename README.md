@@ -25,17 +25,6 @@ I love learning new things since I got acquainted with programming.</br>
 
 ---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=zysea23&show_icons=true&theme=default_repocard&hide_border=true" alt="GitHub Stats" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=zysea23&theme=default_repocard&hide_border=true" alt="GitHub Streak" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zysea23&layout=compact&theme=default_repocard&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🚀 Featured Projects  
 
 <p align="center">
@@ -67,6 +56,15 @@ I love learning new things since I got acquainted with programming.</br>
 
 
 ### 🔍 Check out more of my projects [here](https://github.com/zysea23?tab=repositories).
+
+---
+## 📊 GitHub Stats
+<!-- GitHub Stats Section -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=zysea23&show_icons=true&theme=default_repocard&hide_border=true" alt="GitHub Stats" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=zysea23&theme=default_repocard&hide_border=true" alt="GitHub Streak" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zysea23&layout=compact&theme=default_repocard&hide_border=true" alt="Top Languages" />
+</div>
 
 
 ---
