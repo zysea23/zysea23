@@ -11,9 +11,9 @@
 <!-- Introduction -->
 **Welcome to my Git Repository!**
 
-I'm an enthusiastic programmer, working on Full-stack Development, Machine Learning and Natural Language Processing. </br>
-I'm passionate about coding to make people's daily life easier and uncovering insights through data analysis.</br>
-I love learning new things since I got acquainted with programming.</br>
+I'm an enthusiastic programmer, working on AI/ML, Natural Language Processing, Computer Vision, and full-stack development. </br>
+I'm passionate about coding to make people's daily life easier and uncovering insights through data analysis and modeling.</br>
+I enjoy learning new things and embracing new technologies.</br>
 
 ---
 
@@ -22,41 +22,6 @@ I love learning new things since I got acquainted with programming.</br>
 - 👨‍💻 MS Information Systems @ Northeastern University
 - 🌱 Continuously learning and exploring new technologies
 - 🖥️ Writing **Readable** & **Reusable** code are my first priorities
-
----
-
-## 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/zysea23/transformers-Medical-Expert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=transformers-Medical-Expert&theme=default_repocard" />
-  </a>
-    <a href="https://github.com/zysea23/Microservices-E-Commerce-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=Microservices-E-Commerce-Platform&theme=default_repocard" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zysea23/bird-snap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=bird-snap&theme=default_repocard" />
-  </a>
-  <a href="https://github.com/zysea23/uber-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=uber-clone&theme=default_repocard" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/zysea23/NLP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=NLP&theme=default_repocard" />
-  </a>
-  <a href="https://github.com/zysea23/AI-podcast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zysea23&repo=AI-podcast&theme=default_repocard" />
-  </a>
-</p>
-
-
-### 🔍 Check out more of my projects [here](https://github.com/zysea23?tab=repositories).
-
 
 ---
 
